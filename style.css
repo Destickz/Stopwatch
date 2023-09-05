@@ -90,16 +90,28 @@ em {
         line-height: 1.5;
         font-weight: 700;
         text-align: center;
-        margin-top: -40px;
     }
 
+    .flex-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 600px;
+        }
+        
     .grid-container {
         display: grid;
         gap: 10px;
-        height: 500px;
+        height: 550px;
         width: 550px;
-        margin-top: 20px ;
     }
+
+    footer {
+        font-size: 1.3rem;
+        text-align: center;
+        color:white;
+        padding-bottom: 20px;
+       }
 }
 
 /*styling for mobile (general) viewport*/

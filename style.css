@@ -72,7 +72,7 @@ em {
     font-weight: bold;
    }
    
-   #start-section:hover, #pause-section:hover, #resume-section:hover, #reset-section:hover {
+   #start-btn:hover, #pause-btn:hover, #resume-btn:hover {
     color: white;
     background: none;
 }
